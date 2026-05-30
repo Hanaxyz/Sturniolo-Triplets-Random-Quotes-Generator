@@ -334,6 +334,66 @@ const tripletsArray
     },
 
 
+            {
+          image: "images/51.png",
+        source: "Change - Nick’s personal channel",
+        details: "2:23"
+    },
+
+            {
+          image: "images/52.png",
+        source: "Change - Nick’s personal channel",
+        details: "0:43"
+    },
+
+
+              {
+          image: "images/53.png",
+        source: "Change - Nick’s personal channel",
+        details: "3:19"
+    },
+
+  
+              {
+          image: "images/54.png",
+        source: "Change - Nick’s personal channel",
+        details: "4:03"
+    },
+
+
+               {
+          image: "images/55.png",
+        source: "Cabin talk - Matt’s personal channel",
+        details: "9:05"
+    },
+
+               {
+          image: "images/56.png",
+        source: "Cabin talk - Matt’s personal channel",
+        details: "9:33"
+    },
+
+
+  
+               {
+          image: "images/57.png",
+        source: "Cabin talk - Matt’s personal channel",
+        details: "1:33"
+    },
+
+
+                 {
+          image: "images/58.png",
+        source: "Cabin talk - Matt’s personal channel",
+        details: "2:52"
+    },
+
+
+
+
+
+
+
 
 
 
