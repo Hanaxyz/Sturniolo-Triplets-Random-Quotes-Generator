@@ -337,7 +337,7 @@ const tripletsArray
             {
           image: "images/51.png",
         source: "Change - Nick’s personal channel",
-        details: "2:23"
+        details: "2:22"
     },
 
             {
