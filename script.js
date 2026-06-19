@@ -389,10 +389,86 @@ const tripletsArray
     },
 
 
+                  {
+          image: "images/59.png",
+        source: "We turned 20 !!!",
+        details: "8:31"
+    },
 
 
+                  {
+          image: "images/60.png",
+        source: "We turned 20 !!!",
+        details: "9:44"
+    },
+
+                     {
+          image: "images/61.png",
+        source: "We turned 20 !!!",
+        details: "10:07"
+    },
 
 
+                        {
+          image: "images/62.png",
+        source: "An absolute kitchen disaster",
+        details: "18:39"
+    },
+
+
+                            {
+          image: "images/63.png",
+        source: "Ep10 cut the camera podcast",
+        details: "8:36"
+    },
+
+
+                             {
+          image: "images/64.png",
+        source: "Ep10 cut the camera podcast",
+        details: "44:39"
+    },
+
+
+    
+
+                             {
+          image: "images/65.png",
+        source: "Ep10 cut the camera podcast",
+        details: "57:14"
+    },
+
+    
+                             {
+          image: "images/66.png",
+        source: "Ep10 cut the camera podcast",
+        details: "37:22"
+    },
+
+
+                               {
+          image: "images/67.png",
+        source: "Ep10 cut the camera podcast",
+        details: "52:54"
+    },
+
+
+                                   {
+          image: "images/68.png",
+        source: "Ep10 cut the camera podcast",
+        details: "40:11"
+    },
+
+
+    
+                                   {
+          image: "images/69.png",
+        source: "Ep10 cut the camera podcast",
+        details: "42:09"
+    },
+
+
+  
 
 
 
