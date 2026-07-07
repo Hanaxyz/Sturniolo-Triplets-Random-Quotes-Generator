@@ -469,6 +469,34 @@ const tripletsArray
 
 
   
+                                       {
+          image: "images/70.png",
+        source: "WE BECAME COWBOYS FOR A DAY! | 7 MILLION SUBSCRIBERS CELEBRATION",
+        details: "39:00"
+    },
+
+
+                                          {
+          image: "images/71.png",
+        source: "Making a vision board (organizing my goals)",
+        details: "12:52"
+    },
+
+
+                                            {
+          image: "images/72.png",
+        source: "Making a vision board (organizing my goals)",
+        details: "15:51"
+    },
+
+    
+                                            {
+          image: "images/73.png",
+        source: "Making a vision board (organizing my goals)",
+        details: "00:30"
+    },
+
+
 
 
 
