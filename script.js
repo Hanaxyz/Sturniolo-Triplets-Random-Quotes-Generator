@@ -496,6 +496,219 @@ const tripletsArray
         details: "00:30"
     },
 
+                                              {
+          image: "images/74.png",
+        source: "The government is coming part 1",
+        details: "15:31"
+    },
+
+                                                {
+          image: "images/75.png",
+        source: "Q & A Part 5",
+        details: "17:49"
+    },
+
+
+                                                    {
+          image: "images/76.png",
+        source: "Truth or Eat gets Emotional",
+        details: "20:58"
+    },
+
+
+                                                        {
+          image: "images/77.png",
+        source: "is it a red flag or green flag?",
+        details: "00:29"
+    },
+
+                                                          {
+          image: "images/78.png",
+        source: "EVERYONE RELAX",
+        details: "9:47"
+    },
+
+
+                                                              {
+          image: "images/79.png",
+        source: "EVERYONE RELAX",
+        details: "9:56"
+    },
+
+
+                                                                  {
+          image: "images/80.png",
+        source: "NICK HAS OFFICALY LOST HIS MIND",
+        details: "25:25"
+    },
+
+                                                                      {
+          image: "images/81.png",
+        source: "THEY'RE A 10 BUT... they aren't your valentine",
+        details: "13:41"
+    },
+
+
+                                                                         {
+          image: "images/82.png",
+        source: "We filmed this video as bros",
+        details: "9:21"
+    },
+
+
+                                                                           {
+          image: "images/83.png",
+        source: "We filmed this video as bros",
+        details: "9:30"
+    },
+
+
+                                                                              {
+          image: "images/84.png",
+        source: "NICK HAS OFFICIALLY LOST HIS MIND",
+        details: "2:35"
+    },
+
+    
+                                                                               {
+          image: "images/85.png",
+        source: "THE RETURN OF VLOGS!",
+        details: "00:46"
+    },
+
+
+                                                                                   {
+          image: "images/86.png",
+        source: "REACTING TO HATE COMMENTS!",
+        details: "5:34"
+    },
+
+                                                                                     {
+          image: "images/87.png",
+        source: "WE ARE THANKFUL.",
+        details: "20:55"
+    },
+
+
+                                                                                         {
+          image: "images/88.png",
+        source: "COME EAT WITH US + TEXAS VLOG",
+        details: "22:00"
+    },
+
+                                                                                            {
+          image: "images/89.png",
+        source: "Nick is 21 and still learning how to walk",
+        details: "26:55"
+    },
+
+    
+                                                                                            {
+          image: "images/90.png",
+        source: "Reacting to hate comments",
+        details: "11:33"
+    },
+
+
+       
+                                                                                            {
+          image: "images/91.png",
+        source: "Breaking down or Zodiac sign !!",
+        details: "3:28"
+    },
+
+    
+       
+                                                                                            {
+          image: "images/92.png",
+        source: "Breaking down or Zodiac sign !!",
+        details: "9:08"
+    },
+
+       
+       
+                                                                                            {
+          image: "images/93.png",
+        source: "Breaking down or Zodiac sign !!",
+        details: "21:30"
+    },
+
+
+        
+                                                                                            {
+          image: "images/94.png",
+        source: "TRUTH OR EAT part 3",
+        details: "26:21"
+    },
+
+            
+                                                                                            {
+          image: "images/95.png",
+        source: "TRUTH OR EAT part 3",
+        details: "26:44"
+    },
+
+
+               
+                                                                                            {
+          image: "images/96.png",
+        source: "TRIPLETS BUY EACH OTHER CHRISTMAS GIFTS!!! 2025",
+        details: "28:10"
+    },
+
+
+                   
+                                                                                            {
+          image: "images/97.png",
+        source: "debating our dream blunt rotations !!",
+        details: "34:41"
+    },
+
+
+                       
+                                                                                            {
+          image: "images/98.png",
+        source: "Triplet Tournament Part 4!",
+        details: "12:17"
+    },
+
+
+                           
+                                                                                            {
+          image: "images/99.png",
+        source: "Nick is angry... Again",
+        details: "13:48"
+    },
+
+                               
+                                                                                            {
+          image: "images/100.png",
+        source: "Q&A + small talk (we love u)",
+        details: "23:43"
+    },
+
+                                   
+                                                                                            {
+          image: "images/101.png",
+        source: "Q&A + small talk (we love u)",
+        details: "23:09"
+    },
+
+                                                                                                {
+          image: "images/102.png",
+        source: "Q&A + small talk (we love u)",
+        details: "22:28"
+    },
+
+
+                                                                                                    {
+          image: "images/103.png",
+        source: "Q&A + small talk (we love u)",
+        details: "21:48"
+    },
+
+
+
 
 
 
