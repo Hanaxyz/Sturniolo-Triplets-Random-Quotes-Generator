@@ -613,7 +613,7 @@ const tripletsArray
        
                                                                                             {
           image: "images/91.png",
-        source: "Breaking down or Zodiac sign !!",
+        source: "Breaking down our Zodiac sign !!",
         details: "3:28"
     },
 
@@ -621,7 +621,7 @@ const tripletsArray
        
                                                                                             {
           image: "images/92.png",
-        source: "Breaking down or Zodiac sign !!",
+        source: "Breaking down our Zodiac sign !!",
         details: "9:08"
     },
 
@@ -629,7 +629,7 @@ const tripletsArray
        
                                                                                             {
           image: "images/93.png",
-        source: "Breaking down or Zodiac sign !!",
+        source: "Breaking down our Zodiac sign !!",
         details: "21:30"
     },
 
