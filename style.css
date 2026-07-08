@@ -313,3 +313,12 @@ canvas {
     pointer-events: none; 
     z-index: 9999 !important; 
 }
+
+
+
+*{
+    box-sizing:border-box;
+}
+
+
+
