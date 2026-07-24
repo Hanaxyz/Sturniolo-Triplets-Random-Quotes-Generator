@@ -321,39 +321,66 @@ canvas {
 }
 
 
+@media (max-width:768px){
 
-*{
-    box-sizing:border-box;
-}
-.controls-container{
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-    justify-content:center;
-    gap:25px;
+    body{
+        padding-bottom:100px;
+    }
 
-    height:auto;
-    padding:20px;
-}
+    header{
+        padding:15px;
+        font-size:16px;
+        gap:10px;
+    }
 
-.info-box{
-    width:90%;
-    height:auto;
-    overflow:visible;
-}
+    .con{
+        position:relative;
+        left:auto;
+        top:auto;
+        margin:100px auto 0;
+        width:100%;
+        max-width:500px;
+    }
 
-button{
-    width:150px;
-    height:70px;
-}
+    .pic-card{
+        width:90vw;
+        max-width:360px;
+        height:auto;
+        aspect-ratio:360/380;
+    }
 
-.label{
-    font-size:24px;
-}
+    .controls-container{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+        gap:25px;
 
-#source,
-#details{
-    font-size:18px;
-    line-height:1.5;
-    word-break:break-word;
+        height:auto;
+        padding:20px;
+        overflow:visible;
+    }
+
+    .info-box{
+        width:90%;
+        height:auto;
+        overflow:visible;
+    }
+
+    .label{
+        font-size:24px;
+    }
+
+    #source,
+    #details{
+        font-size:18px;
+        line-height:1.5;
+        word-break:break-word;
+    }
+
+    button{
+        width:150px;
+        height:70px;
+    }
+
 }
