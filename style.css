@@ -326,5 +326,45 @@ canvas {
     box-sizing:border-box;
 }
 
+@media (max-width:768px){
+
+.con{
+    position:relative;
+    left:auto;
+    top:auto;
+    margin:100px auto 0;
+}
+
+.pic-card{
+    width:90vw;
+    max-width:360px;
+    height:auto;
+    aspect-ratio:360/380;
+}
+
+.controls-container{
+    flex-wrap:wrap;
+    justify-content:center;
+    height:auto;
+    overflow:visible;
+}
+
+.info-box{
+    width:140px;
+    overflow:visible;
+}
+
+button{
+    width:90px;
+    height:60px;
+}
+
+header{
+    padding:15px;
+    font-size:16px;
+    gap:10px;
+}
+
+}
 
 
