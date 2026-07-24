@@ -325,46 +325,35 @@ canvas {
 *{
     box-sizing:border-box;
 }
-
-@media (max-width:768px){
-
-.con{
-    position:relative;
-    left:auto;
-    top:auto;
-    margin:100px auto 0;
-}
-
-.pic-card{
-    width:90vw;
-    max-width:360px;
-    height:auto;
-    aspect-ratio:360/380;
-}
-
 .controls-container{
-    flex-wrap:wrap;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
     justify-content:center;
+    gap:25px;
+
     height:auto;
-    overflow:visible;
+    padding:20px;
 }
 
 .info-box{
-    width:140px;
+    width:90%;
+    height:auto;
     overflow:visible;
 }
 
 button{
-    width:90px;
-    height:60px;
+    width:150px;
+    height:70px;
 }
 
-header{
-    padding:15px;
-    font-size:16px;
-    gap:10px;
+.label{
+    font-size:24px;
 }
 
+#source,
+#details{
+    font-size:18px;
+    line-height:1.5;
+    word-break:break-word;
 }
-
-
