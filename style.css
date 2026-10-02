@@ -744,14 +744,14 @@ modal {
   }
 
   .modal-content {
-    width: 92%;
+    width: 96%;
     padding: 20px;
     max-height: 85vh;
   }
 
   .closeBtn {
-    top: 15px;
-    right: 20px;
+    top: 20px;
+    right: 13px;
     font-size: 30px;
   }
 }
