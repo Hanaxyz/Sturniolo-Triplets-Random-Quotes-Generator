@@ -380,4 +380,11 @@ canvas {
         height:70px;
     }
 
+    .modal{
+
+        height:300px;
+        width:200px;
+
+    }
+
 }
